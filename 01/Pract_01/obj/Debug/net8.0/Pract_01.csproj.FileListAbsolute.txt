@@ -1,0 +1,14 @@
+D:\Labaratornie\C#\Практика\01\Pract_01\bin\Debug\net8.0\Pract_01.exe
+D:\Labaratornie\C#\Практика\01\Pract_01\bin\Debug\net8.0\Pract_01.deps.json
+D:\Labaratornie\C#\Практика\01\Pract_01\bin\Debug\net8.0\Pract_01.runtimeconfig.json
+D:\Labaratornie\C#\Практика\01\Pract_01\bin\Debug\net8.0\Pract_01.dll
+D:\Labaratornie\C#\Практика\01\Pract_01\bin\Debug\net8.0\Pract_01.pdb
+D:\Labaratornie\C#\Практика\01\Pract_01\obj\Debug\net8.0\Pract_01.GeneratedMSBuildEditorConfig.editorconfig
+D:\Labaratornie\C#\Практика\01\Pract_01\obj\Debug\net8.0\Pract_01.AssemblyInfoInputs.cache
+D:\Labaratornie\C#\Практика\01\Pract_01\obj\Debug\net8.0\Pract_01.AssemblyInfo.cs
+D:\Labaratornie\C#\Практика\01\Pract_01\obj\Debug\net8.0\Pract_01.csproj.CoreCompileInputs.cache
+D:\Labaratornie\C#\Практика\01\Pract_01\obj\Debug\net8.0\Pract_01.dll
+D:\Labaratornie\C#\Практика\01\Pract_01\obj\Debug\net8.0\refint\Pract_01.dll
+D:\Labaratornie\C#\Практика\01\Pract_01\obj\Debug\net8.0\Pract_01.pdb
+D:\Labaratornie\C#\Практика\01\Pract_01\obj\Debug\net8.0\Pract_01.genruntimeconfig.cache
+D:\Labaratornie\C#\Практика\01\Pract_01\obj\Debug\net8.0\ref\Pract_01.dll
