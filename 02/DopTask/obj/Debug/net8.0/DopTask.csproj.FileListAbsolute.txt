@@ -1,0 +1,15 @@
+D:\Labaratornie\C#\Практика\02\DopTask\bin\Debug\net8.0\DopTask.exe
+D:\Labaratornie\C#\Практика\02\DopTask\bin\Debug\net8.0\DopTask.deps.json
+D:\Labaratornie\C#\Практика\02\DopTask\bin\Debug\net8.0\DopTask.runtimeconfig.json
+D:\Labaratornie\C#\Практика\02\DopTask\bin\Debug\net8.0\DopTask.dll
+D:\Labaratornie\C#\Практика\02\DopTask\bin\Debug\net8.0\DopTask.pdb
+D:\Labaratornie\C#\Практика\02\DopTask\obj\Debug\net8.0\DopTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\Labaratornie\C#\Практика\02\DopTask\obj\Debug\net8.0\DopTask.AssemblyInfoInputs.cache
+D:\Labaratornie\C#\Практика\02\DopTask\obj\Debug\net8.0\DopTask.AssemblyInfo.cs
+D:\Labaratornie\C#\Практика\02\DopTask\obj\Debug\net8.0\DopTask.csproj.CoreCompileInputs.cache
+D:\Labaratornie\C#\Практика\02\DopTask\obj\Debug\net8.0\DopTask.sourcelink.json
+D:\Labaratornie\C#\Практика\02\DopTask\obj\Debug\net8.0\DopTask.dll
+D:\Labaratornie\C#\Практика\02\DopTask\obj\Debug\net8.0\refint\DopTask.dll
+D:\Labaratornie\C#\Практика\02\DopTask\obj\Debug\net8.0\DopTask.pdb
+D:\Labaratornie\C#\Практика\02\DopTask\obj\Debug\net8.0\DopTask.genruntimeconfig.cache
+D:\Labaratornie\C#\Практика\02\DopTask\obj\Debug\net8.0\ref\DopTask.dll
