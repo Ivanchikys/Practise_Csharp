@@ -1,0 +1,29 @@
+D:\__Колледж\__Учеба\КПиЯП Практика Гум помощь\11\Task1\bin\Debug\net8.0\Task1.exe
+D:\__Колледж\__Учеба\КПиЯП Практика Гум помощь\11\Task1\bin\Debug\net8.0\Task1.deps.json
+D:\__Колледж\__Учеба\КПиЯП Практика Гум помощь\11\Task1\bin\Debug\net8.0\Task1.runtimeconfig.json
+D:\__Колледж\__Учеба\КПиЯП Практика Гум помощь\11\Task1\bin\Debug\net8.0\Task1.dll
+D:\__Колледж\__Учеба\КПиЯП Практика Гум помощь\11\Task1\bin\Debug\net8.0\Task1.pdb
+D:\__Колледж\__Учеба\КПиЯП Практика Гум помощь\11\Task1\obj\Debug\net8.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+D:\__Колледж\__Учеба\КПиЯП Практика Гум помощь\11\Task1\obj\Debug\net8.0\Task1.AssemblyInfoInputs.cache
+D:\__Колледж\__Учеба\КПиЯП Практика Гум помощь\11\Task1\obj\Debug\net8.0\Task1.AssemblyInfo.cs
+D:\__Колледж\__Учеба\КПиЯП Практика Гум помощь\11\Task1\obj\Debug\net8.0\Task1.csproj.CoreCompileInputs.cache
+D:\__Колледж\__Учеба\КПиЯП Практика Гум помощь\11\Task1\obj\Debug\net8.0\Task1.dll
+D:\__Колледж\__Учеба\КПиЯП Практика Гум помощь\11\Task1\obj\Debug\net8.0\refint\Task1.dll
+D:\__Колледж\__Учеба\КПиЯП Практика Гум помощь\11\Task1\obj\Debug\net8.0\Task1.pdb
+D:\__Колледж\__Учеба\КПиЯП Практика Гум помощь\11\Task1\obj\Debug\net8.0\Task1.genruntimeconfig.cache
+D:\__Колледж\__Учеба\КПиЯП Практика Гум помощь\11\Task1\obj\Debug\net8.0\ref\Task1.dll
+D:\Labaratornie\C#\Практика\11\Task1\bin\Debug\net8.0\Task1.exe
+D:\Labaratornie\C#\Практика\11\Task1\bin\Debug\net8.0\Task1.deps.json
+D:\Labaratornie\C#\Практика\11\Task1\bin\Debug\net8.0\Task1.runtimeconfig.json
+D:\Labaratornie\C#\Практика\11\Task1\bin\Debug\net8.0\Task1.dll
+D:\Labaratornie\C#\Практика\11\Task1\bin\Debug\net8.0\Task1.pdb
+D:\Labaratornie\C#\Практика\11\Task1\obj\Debug\net8.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Labaratornie\C#\Практика\11\Task1\obj\Debug\net8.0\Task1.AssemblyInfoInputs.cache
+D:\Labaratornie\C#\Практика\11\Task1\obj\Debug\net8.0\Task1.AssemblyInfo.cs
+D:\Labaratornie\C#\Практика\11\Task1\obj\Debug\net8.0\Task1.csproj.CoreCompileInputs.cache
+D:\Labaratornie\C#\Практика\11\Task1\obj\Debug\net8.0\Task1.sourcelink.json
+D:\Labaratornie\C#\Практика\11\Task1\obj\Debug\net8.0\Task1.dll
+D:\Labaratornie\C#\Практика\11\Task1\obj\Debug\net8.0\refint\Task1.dll
+D:\Labaratornie\C#\Практика\11\Task1\obj\Debug\net8.0\Task1.pdb
+D:\Labaratornie\C#\Практика\11\Task1\obj\Debug\net8.0\Task1.genruntimeconfig.cache
+D:\Labaratornie\C#\Практика\11\Task1\obj\Debug\net8.0\ref\Task1.dll

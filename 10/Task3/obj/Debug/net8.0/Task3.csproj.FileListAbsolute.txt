@@ -1,0 +1,29 @@
+D:\__Колледж\__Учеба\КПиЯП Практика Гум помощь\10\Task3\bin\Debug\net8.0\Task3.exe
+D:\__Колледж\__Учеба\КПиЯП Практика Гум помощь\10\Task3\bin\Debug\net8.0\Task3.deps.json
+D:\__Колледж\__Учеба\КПиЯП Практика Гум помощь\10\Task3\bin\Debug\net8.0\Task3.runtimeconfig.json
+D:\__Колледж\__Учеба\КПиЯП Практика Гум помощь\10\Task3\bin\Debug\net8.0\Task3.dll
+D:\__Колледж\__Учеба\КПиЯП Практика Гум помощь\10\Task3\bin\Debug\net8.0\Task3.pdb
+D:\__Колледж\__Учеба\КПиЯП Практика Гум помощь\10\Task3\obj\Debug\net8.0\Task3.GeneratedMSBuildEditorConfig.editorconfig
+D:\__Колледж\__Учеба\КПиЯП Практика Гум помощь\10\Task3\obj\Debug\net8.0\Task3.AssemblyInfoInputs.cache
+D:\__Колледж\__Учеба\КПиЯП Практика Гум помощь\10\Task3\obj\Debug\net8.0\Task3.AssemblyInfo.cs
+D:\__Колледж\__Учеба\КПиЯП Практика Гум помощь\10\Task3\obj\Debug\net8.0\Task3.csproj.CoreCompileInputs.cache
+D:\__Колледж\__Учеба\КПиЯП Практика Гум помощь\10\Task3\obj\Debug\net8.0\Task3.dll
+D:\__Колледж\__Учеба\КПиЯП Практика Гум помощь\10\Task3\obj\Debug\net8.0\refint\Task3.dll
+D:\__Колледж\__Учеба\КПиЯП Практика Гум помощь\10\Task3\obj\Debug\net8.0\Task3.pdb
+D:\__Колледж\__Учеба\КПиЯП Практика Гум помощь\10\Task3\obj\Debug\net8.0\Task3.genruntimeconfig.cache
+D:\__Колледж\__Учеба\КПиЯП Практика Гум помощь\10\Task3\obj\Debug\net8.0\ref\Task3.dll
+D:\Labaratornie\C#\Практика\10\Task3\bin\Debug\net8.0\Task3.exe
+D:\Labaratornie\C#\Практика\10\Task3\bin\Debug\net8.0\Task3.deps.json
+D:\Labaratornie\C#\Практика\10\Task3\bin\Debug\net8.0\Task3.runtimeconfig.json
+D:\Labaratornie\C#\Практика\10\Task3\bin\Debug\net8.0\Task3.dll
+D:\Labaratornie\C#\Практика\10\Task3\bin\Debug\net8.0\Task3.pdb
+D:\Labaratornie\C#\Практика\10\Task3\obj\Debug\net8.0\Task3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Labaratornie\C#\Практика\10\Task3\obj\Debug\net8.0\Task3.AssemblyInfoInputs.cache
+D:\Labaratornie\C#\Практика\10\Task3\obj\Debug\net8.0\Task3.AssemblyInfo.cs
+D:\Labaratornie\C#\Практика\10\Task3\obj\Debug\net8.0\Task3.csproj.CoreCompileInputs.cache
+D:\Labaratornie\C#\Практика\10\Task3\obj\Debug\net8.0\Task3.sourcelink.json
+D:\Labaratornie\C#\Практика\10\Task3\obj\Debug\net8.0\Task3.dll
+D:\Labaratornie\C#\Практика\10\Task3\obj\Debug\net8.0\refint\Task3.dll
+D:\Labaratornie\C#\Практика\10\Task3\obj\Debug\net8.0\Task3.pdb
+D:\Labaratornie\C#\Практика\10\Task3\obj\Debug\net8.0\Task3.genruntimeconfig.cache
+D:\Labaratornie\C#\Практика\10\Task3\obj\Debug\net8.0\ref\Task3.dll
