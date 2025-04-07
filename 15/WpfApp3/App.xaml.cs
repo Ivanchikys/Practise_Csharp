@@ -2,7 +2,7 @@
 using System.Data;
 using System.Windows;
 
-namespace WpfApp3
+namespace TeacherJournal
 {
     /// <summary>
     /// Interaction logic for App.xaml

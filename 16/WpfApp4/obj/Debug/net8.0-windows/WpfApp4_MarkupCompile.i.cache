@@ -9,12 +9,12 @@ WpfApp4
 none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
-D:\Labaratornie\C#\Практика\16\WpfApp4\App.xaml
-11407045341
 
-14495575756
+2-1094938431
+
+13-255290798
 198-352714763
-MainWindow.xaml;
+App.xaml;MainWindow.xaml;
 
-True
+False
 

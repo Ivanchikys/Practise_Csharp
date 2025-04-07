@@ -1,9 +1,5 @@
-D:\Labaratornie\C#\Практика\16\WpfApp4\obj\Debug\net8.0-windows\MainWindow.g.cs
 D:\Labaratornie\C#\Практика\16\WpfApp4\obj\Debug\net8.0-windows\App.g.cs
-D:\Labaratornie\C#\Практика\16\WpfApp4\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
 D:\Labaratornie\C#\Практика\16\WpfApp4\obj\Debug\net8.0-windows\WpfApp4_MarkupCompile.cache
-D:\Labaratornie\C#\Практика\16\WpfApp4\obj\Debug\net8.0-windows\WpfApp4_MarkupCompile.lref
-D:\Labaratornie\C#\Практика\16\WpfApp4\obj\Debug\net8.0-windows\MainWindow.baml
 D:\Labaratornie\C#\Практика\16\WpfApp4\obj\Debug\net8.0-windows\WpfApp4.g.resources
 D:\Labaratornie\C#\Практика\16\WpfApp4\obj\Debug\net8.0-windows\WpfApp4.GeneratedMSBuildEditorConfig.editorconfig
 D:\Labaratornie\C#\Практика\16\WpfApp4\obj\Debug\net8.0-windows\WpfApp4.AssemblyInfoInputs.cache
@@ -20,3 +16,5 @@ D:\Labaratornie\C#\Практика\16\WpfApp4\obj\Debug\net8.0-windows\refint\W
 D:\Labaratornie\C#\Практика\16\WpfApp4\obj\Debug\net8.0-windows\WpfApp4.pdb
 D:\Labaratornie\C#\Практика\16\WpfApp4\obj\Debug\net8.0-windows\WpfApp4.genruntimeconfig.cache
 D:\Labaratornie\C#\Практика\16\WpfApp4\obj\Debug\net8.0-windows\ref\WpfApp4.dll
+D:\Labaratornie\C#\Практика\16\WpfApp4\obj\Debug\net8.0-windows\MainWindow.baml
+D:\Labaratornie\C#\Практика\16\WpfApp4\obj\Debug\net8.0-windows\MainWindow.g.cs
