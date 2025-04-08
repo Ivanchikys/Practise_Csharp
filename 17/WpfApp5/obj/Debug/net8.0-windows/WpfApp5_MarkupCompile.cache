@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
 D:\Labaratornie\C#\Практика\17\WpfApp5\App.xaml
-11407045341
+3616261101
 
-17-1643058383
+2715348681
 198-352714763
-MainWindow.xaml;
+ChatWindow.xaml;LoginWindow.xaml;MainWindow.xaml;
 
 False
 
