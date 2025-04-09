@@ -5,8 +5,6 @@ using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using TeacherJournal.Data;
 
-#nullable disable
-
 namespace WpfApp5.Models
 {
     [DbContext(typeof(JournalContext))]
@@ -141,7 +139,6 @@ namespace WpfApp5.Models
                 {
                     b.Navigation("Enrollments");
                 });
-#pragma warning restore 612, 618
         }
     }
 }
