@@ -1,0 +1,49 @@
+D:\Labaratornie\C#\Практика\17\WpfApp5\bin\Debug\net8.0-windows\WpfApp5.exe
+D:\Labaratornie\C#\Практика\17\WpfApp5\bin\Debug\net8.0-windows\WpfApp5.deps.json
+D:\Labaratornie\C#\Практика\17\WpfApp5\bin\Debug\net8.0-windows\WpfApp5.runtimeconfig.json
+D:\Labaratornie\C#\Практика\17\WpfApp5\bin\Debug\net8.0-windows\WpfApp5.dll
+D:\Labaratornie\C#\Практика\17\WpfApp5\bin\Debug\net8.0-windows\WpfApp5.pdb
+D:\Labaratornie\C#\Практика\17\WpfApp5\obj\Debug\net8.0-windows\MainWindow.baml
+D:\Labaratornie\C#\Практика\17\WpfApp5\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\Labaratornie\C#\Практика\17\WpfApp5\obj\Debug\net8.0-windows\App.g.cs
+D:\Labaratornie\C#\Практика\17\WpfApp5\obj\Debug\net8.0-windows\WpfApp5_MarkupCompile.cache
+D:\Labaratornie\C#\Практика\17\WpfApp5\obj\Debug\net8.0-windows\WpfApp5.g.resources
+D:\Labaratornie\C#\Практика\17\WpfApp5\obj\Debug\net8.0-windows\WpfApp5.GeneratedMSBuildEditorConfig.editorconfig
+D:\Labaratornie\C#\Практика\17\WpfApp5\obj\Debug\net8.0-windows\WpfApp5.AssemblyInfoInputs.cache
+D:\Labaratornie\C#\Практика\17\WpfApp5\obj\Debug\net8.0-windows\WpfApp5.AssemblyInfo.cs
+D:\Labaratornie\C#\Практика\17\WpfApp5\obj\Debug\net8.0-windows\WpfApp5.csproj.CoreCompileInputs.cache
+D:\Labaratornie\C#\Практика\17\WpfApp5\obj\Debug\net8.0-windows\WpfApp5.sourcelink.json
+D:\Labaratornie\C#\Практика\17\WpfApp5\obj\Debug\net8.0-windows\WpfApp5.dll
+D:\Labaratornie\C#\Практика\17\WpfApp5\obj\Debug\net8.0-windows\refint\WpfApp5.dll
+D:\Labaratornie\C#\Практика\17\WpfApp5\obj\Debug\net8.0-windows\WpfApp5.pdb
+D:\Labaratornie\C#\Практика\17\WpfApp5\obj\Debug\net8.0-windows\WpfApp5.genruntimeconfig.cache
+D:\Labaratornie\C#\Практика\17\WpfApp5\obj\Debug\net8.0-windows\ref\WpfApp5.dll
+D:\Labaratornie\C#\Практика\17\WpfApp5\obj\Debug\net8.0-windows\LoginWindow.baml
+D:\Labaratornie\C#\Практика\17\WpfApp5\obj\Debug\net8.0-windows\LoginWindow.g.cs
+D:\Labaratornie\C#\Практика\17\WpfApp5\obj\Debug\net8.0-windows\WpfApp5_MarkupCompile.lref
+D:\Labaratornie\C#\Практика\17\WpfApp5\obj\Debug\net8.0-windows\ChatWindow.g.cs
+D:\Labaratornie\C#\Практика\17\WpfApp5\obj\Debug\net8.0-windows\ChatWindow.baml
+D:\__Колледж\__Учеба\КПиЯП Практика Гум помощь\Ерошеня_16\WpfApp5\obj\Debug\net8.0-windows\LoginWindow.baml
+D:\__Колледж\__Учеба\КПиЯП Практика Гум помощь\Ерошеня_16\WpfApp5\obj\Debug\net8.0-windows\ChatWindow.g.cs
+D:\__Колледж\__Учеба\КПиЯП Практика Гум помощь\Ерошеня_16\WpfApp5\obj\Debug\net8.0-windows\LoginWindow.g.cs
+D:\__Колледж\__Учеба\КПиЯП Практика Гум помощь\Ерошеня_16\WpfApp5\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\__Колледж\__Учеба\КПиЯП Практика Гум помощь\Ерошеня_16\WpfApp5\obj\Debug\net8.0-windows\App.g.cs
+D:\__Колледж\__Учеба\КПиЯП Практика Гум помощь\Ерошеня_16\WpfApp5\obj\Debug\net8.0-windows\WpfApp5_MarkupCompile.cache
+D:\__Колледж\__Учеба\КПиЯП Практика Гум помощь\Ерошеня_16\WpfApp5\obj\Debug\net8.0-windows\WpfApp5_MarkupCompile.lref
+D:\__Колледж\__Учеба\КПиЯП Практика Гум помощь\Ерошеня_16\WpfApp5\obj\Debug\net8.0-windows\WpfApp5.dll
+D:\__Колледж\__Учеба\КПиЯП Практика Гум помощь\Ерошеня_16\WpfApp5\obj\Debug\net8.0-windows\refint\WpfApp5.dll
+D:\__Колледж\__Учеба\КПиЯП Практика Гум помощь\Ерошеня_16\WpfApp5\obj\Debug\net8.0-windows\WpfApp5.pdb
+D:\__Колледж\__Учеба\КПиЯП Практика Гум помощь\Ерошеня_16\WpfApp5\bin\Debug\net8.0-windows\WpfApp5.exe
+D:\__Колледж\__Учеба\КПиЯП Практика Гум помощь\Ерошеня_16\WpfApp5\bin\Debug\net8.0-windows\WpfApp5.deps.json
+D:\__Колледж\__Учеба\КПиЯП Практика Гум помощь\Ерошеня_16\WpfApp5\bin\Debug\net8.0-windows\WpfApp5.runtimeconfig.json
+D:\__Колледж\__Учеба\КПиЯП Практика Гум помощь\Ерошеня_16\WpfApp5\bin\Debug\net8.0-windows\WpfApp5.dll
+D:\__Колледж\__Учеба\КПиЯП Практика Гум помощь\Ерошеня_16\WpfApp5\bin\Debug\net8.0-windows\WpfApp5.pdb
+D:\__Колледж\__Учеба\КПиЯП Практика Гум помощь\Ерошеня_16\WpfApp5\obj\Debug\net8.0-windows\ChatWindow.baml
+D:\__Колледж\__Учеба\КПиЯП Практика Гум помощь\Ерошеня_16\WpfApp5\obj\Debug\net8.0-windows\MainWindow.baml
+D:\__Колледж\__Учеба\КПиЯП Практика Гум помощь\Ерошеня_16\WpfApp5\obj\Debug\net8.0-windows\WpfApp5.g.resources
+D:\__Колледж\__Учеба\КПиЯП Практика Гум помощь\Ерошеня_16\WpfApp5\obj\Debug\net8.0-windows\WpfApp5.GeneratedMSBuildEditorConfig.editorconfig
+D:\__Колледж\__Учеба\КПиЯП Практика Гум помощь\Ерошеня_16\WpfApp5\obj\Debug\net8.0-windows\WpfApp5.AssemblyInfoInputs.cache
+D:\__Колледж\__Учеба\КПиЯП Практика Гум помощь\Ерошеня_16\WpfApp5\obj\Debug\net8.0-windows\WpfApp5.AssemblyInfo.cs
+D:\__Колледж\__Учеба\КПиЯП Практика Гум помощь\Ерошеня_16\WpfApp5\obj\Debug\net8.0-windows\WpfApp5.csproj.CoreCompileInputs.cache
+D:\__Колледж\__Учеба\КПиЯП Практика Гум помощь\Ерошеня_16\WpfApp5\obj\Debug\net8.0-windows\WpfApp5.genruntimeconfig.cache
+D:\__Колледж\__Учеба\КПиЯП Практика Гум помощь\Ерошеня_16\WpfApp5\obj\Debug\net8.0-windows\ref\WpfApp5.dll

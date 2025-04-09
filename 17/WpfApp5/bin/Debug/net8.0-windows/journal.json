@@ -1,191 +1,92 @@
 {
   "Grades": [
     {
-      "Student": {
-        "FullName": "\u041D\u043E\u0432\u044B\u0439 \u0441\u0442\u0443\u0434\u0435\u043D\u0442"
-      },
-      "GradeInfo": {
-        "Grade": "10",
-        "Comment": "\u041D\u043E\u0432\u0430\u044F \u043E\u0446\u0435\u043D\u043A\u0430 (\u0438\u0437\u043C\u0435\u043D\u0435\u043D\u043E) (\u0438\u0437\u043C\u0435\u043D\u0435\u043D\u043E) (\u0438\u0437\u043C\u0435\u043D\u0435\u043D\u043E)",
-        "IsPresent": false,
-        "Average": 10
-      },
-      "CourseName": "\u041A\u041F\u0438\u042F\u041F",
       "FullName": "\u041D\u043E\u0432\u044B\u0439 \u0441\u0442\u0443\u0434\u0435\u043D\u0442",
       "Grade": "10",
       "Comment": "\u041D\u043E\u0432\u0430\u044F \u043E\u0446\u0435\u043D\u043A\u0430 (\u0438\u0437\u043C\u0435\u043D\u0435\u043D\u043E) (\u0438\u0437\u043C\u0435\u043D\u0435\u043D\u043E) (\u0438\u0437\u043C\u0435\u043D\u0435\u043D\u043E)",
       "IsPresent": false,
-      "Average": 10
+      "Average": 1,
+      "CourseName": "\u041A\u041F\u0438\u042F\u041F"
     },
     {
-      "Student": {
-        "FullName": "\u041D\u043E\u0432\u044B\u0439 \u0441\u0442\u0443\u0434\u0435\u043D\u0442"
-      },
-      "GradeInfo": {
-        "Grade": "0",
-        "Comment": "\u041D\u043E\u0432\u0430\u044F \u043E\u0446\u0435\u043D\u043A\u0430",
-        "IsPresent": false,
-        "Average": 0
-      },
-      "CourseName": "\u041A\u041F\u0438\u042F\u041F",
       "FullName": "\u041D\u043E\u0432\u044B\u0439 \u0441\u0442\u0443\u0434\u0435\u043D\u0442",
       "Grade": "0",
       "Comment": "\u041D\u043E\u0432\u0430\u044F \u043E\u0446\u0435\u043D\u043A\u0430",
       "IsPresent": false,
-      "Average": 0
+      "Average": 1,
+      "CourseName": "\u041A\u041F\u0438\u042F\u041F"
     },
     {
-      "Student": {
-        "FullName": "\u041D\u043E\u0432\u044B\u0439 \u0441\u0442\u0443\u0434\u0435\u043D\u0442"
-      },
-      "GradeInfo": {
-        "Grade": "0",
-        "Comment": "\u041D\u043E\u0432\u0430\u044F \u043E\u0446\u0435\u043D\u043A\u0430",
-        "IsPresent": false,
-        "Average": 0
-      },
-      "CourseName": "\u041A\u041F\u0438\u042F\u041F",
       "FullName": "\u041D\u043E\u0432\u044B\u0439 \u0441\u0442\u0443\u0434\u0435\u043D\u0442",
       "Grade": "0",
       "Comment": "\u041D\u043E\u0432\u0430\u044F \u043E\u0446\u0435\u043D\u043A\u0430",
       "IsPresent": false,
-      "Average": 0
+      "Average": 1,
+      "CourseName": "\u041A\u041F\u0438\u042F\u041F"
     },
     {
-      "Student": {
-        "FullName": "\u041D\u043E\u0432\u044B\u0439 \u0441\u0442\u0443\u0434\u0435\u043D\u0442"
-      },
-      "GradeInfo": {
-        "Grade": "0",
-        "Comment": "\u041D\u043E\u0432\u0430\u044F \u043E\u0446\u0435\u043D\u043A\u0430",
-        "IsPresent": false,
-        "Average": 0
-      },
-      "CourseName": "\u041A\u041F\u0438\u042F\u041F",
+      "FullName": "\u041D\u043E\u0432\u044B\u0439 \u0441\u0442\u0443\u0434\u0435\u043D\u0442",
+      "Grade": "1",
+      "Comment": "\u041D\u043E\u0432\u0430\u044F \u043E\u0446\u0435\u043D\u043A\u0430",
+      "IsPresent": false,
+      "Average": 1,
+      "CourseName": "\u041A\u041F\u0438\u042F\u041F"
+    },
+    {
       "FullName": "\u041D\u043E\u0432\u044B\u0439 \u0441\u0442\u0443\u0434\u0435\u043D\u0442",
       "Grade": "0",
       "Comment": "\u041D\u043E\u0432\u0430\u044F \u043E\u0446\u0435\u043D\u043A\u0430",
       "IsPresent": false,
-      "Average": 0
+      "Average": 1,
+      "CourseName": "\u041A\u041F\u0438\u042F\u041F"
     },
     {
-      "Student": {
-        "FullName": "\u041D\u043E\u0432\u044B\u0439 \u0441\u0442\u0443\u0434\u0435\u043D\u0442"
-      },
-      "GradeInfo": {
-        "Grade": "0",
-        "Comment": "\u041D\u043E\u0432\u0430\u044F \u043E\u0446\u0435\u043D\u043A\u0430",
-        "IsPresent": false,
-        "Average": 0
-      },
-      "CourseName": "\u041A\u041F\u0438\u042F\u041F",
       "FullName": "\u041D\u043E\u0432\u044B\u0439 \u0441\u0442\u0443\u0434\u0435\u043D\u0442",
       "Grade": "0",
       "Comment": "\u041D\u043E\u0432\u0430\u044F \u043E\u0446\u0435\u043D\u043A\u0430",
       "IsPresent": false,
-      "Average": 0
+      "Average": 1,
+      "CourseName": "\u041A\u041F\u0438\u042F\u041F"
     },
     {
-      "Student": {
-        "FullName": "\u041D\u043E\u0432\u044B\u0439 \u0441\u0442\u0443\u0434\u0435\u043D\u0442"
-      },
-      "GradeInfo": {
-        "Grade": "0",
-        "Comment": "\u041D\u043E\u0432\u0430\u044F \u043E\u0446\u0435\u043D\u043A\u0430",
-        "IsPresent": false,
-        "Average": 0
-      },
-      "CourseName": "\u041A\u041F\u0438\u042F\u041F",
       "FullName": "\u041D\u043E\u0432\u044B\u0439 \u0441\u0442\u0443\u0434\u0435\u043D\u0442",
       "Grade": "0",
       "Comment": "\u041D\u043E\u0432\u0430\u044F \u043E\u0446\u0435\u043D\u043A\u0430",
       "IsPresent": false,
-      "Average": 0
+      "Average": 1,
+      "CourseName": "\u041A\u041F\u0438\u042F\u041F"
     },
     {
-      "Student": {
-        "FullName": "\u041D\u043E\u0432\u044B\u0439 \u0441\u0442\u0443\u0434\u0435\u043D\u0442"
-      },
-      "GradeInfo": {
-        "Grade": "0",
-        "Comment": "\u041D\u043E\u0432\u0430\u044F \u043E\u0446\u0435\u043D\u043A\u0430",
-        "IsPresent": false,
-        "Average": 0
-      },
-      "CourseName": "\u041A\u041F\u0438\u042F\u041F",
-      "FullName": "\u041D\u043E\u0432\u044B\u0439 \u0441\u0442\u0443\u0434\u0435\u043D\u0442",
-      "Grade": "0",
-      "Comment": "\u041D\u043E\u0432\u0430\u044F \u043E\u0446\u0435\u043D\u043A\u0430",
-      "IsPresent": false,
-      "Average": 0
-    },
-    {
-      "Student": {
-        "FullName": "\u041D\u043E\u0432\u044B\u0439 \u0441\u0442\u0443\u0434\u0435\u043D\u0442"
-      },
-      "GradeInfo": {
-        "Grade": "\u041D/\u0410",
-        "Comment": "",
-        "IsPresent": true,
-        "Average": 0
-      },
-      "CourseName": "\u041A\u041F\u0438\u042F\u041F",
       "FullName": "\u041D\u043E\u0432\u044B\u0439 \u0441\u0442\u0443\u0434\u0435\u043D\u0442",
       "Grade": "\u041D/\u0410",
       "Comment": "",
       "IsPresent": true,
-      "Average": 0
+      "Average": 1,
+      "CourseName": "\u041A\u041F\u0438\u042F\u041F"
     },
     {
-      "Student": {
-        "FullName": "\u041D\u043E\u0432\u044B\u0439 \u0441\u0442\u0443\u0434\u0435\u043D\u0442"
-      },
-      "GradeInfo": {
-        "Grade": "\u041D/\u0410",
-        "Comment": " (\u0438\u0437\u043C\u0435\u043D\u0435\u043D\u043E)",
-        "IsPresent": true,
-        "Average": 0
-      },
-      "CourseName": "\u041A\u041F\u0438\u042F\u041F",
       "FullName": "\u041D\u043E\u0432\u044B\u0439 \u0441\u0442\u0443\u0434\u0435\u043D\u0442",
       "Grade": "\u041D/\u0410",
       "Comment": " (\u0438\u0437\u043C\u0435\u043D\u0435\u043D\u043E)",
       "IsPresent": true,
-      "Average": 0
+      "Average": 1,
+      "CourseName": "\u041A\u041F\u0438\u042F\u041F"
     },
     {
-      "Student": {
-        "FullName": "\u041D\u043E\u0432\u044B\u0439 \u0441\u0442\u0443\u0434\u0435\u043D\u0442"
-      },
-      "GradeInfo": {
-        "Grade": "\u041D/\u0410",
-        "Comment": "",
-        "IsPresent": true,
-        "Average": 0
-      },
-      "CourseName": "\u041A\u041F\u0438\u042F\u041F",
       "FullName": "\u041D\u043E\u0432\u044B\u0439 \u0441\u0442\u0443\u0434\u0435\u043D\u0442",
       "Grade": "\u041D/\u0410",
       "Comment": "",
       "IsPresent": true,
-      "Average": 0
+      "Average": 1,
+      "CourseName": "\u041A\u041F\u0438\u042F\u041F"
     },
     {
-      "Student": {
-        "FullName": "\u041D\u043E\u0432\u044B\u0439 \u0441\u0442\u0443\u0434\u0435\u043D\u0442"
-      },
-      "GradeInfo": {
-        "Grade": "\u041D/\u0410",
-        "Comment": "",
-        "IsPresent": true,
-        "Average": 0
-      },
-      "CourseName": "\u041A\u041F\u0438\u042F\u041F",
       "FullName": "\u041D\u043E\u0432\u044B\u0439 \u0441\u0442\u0443\u0434\u0435\u043D\u0442",
       "Grade": "\u041D/\u0410",
       "Comment": "",
       "IsPresent": true,
-      "Average": 0
+      "Average": 1,
+      "CourseName": "\u041A\u041F\u0438\u042F\u041F"
     }
   ],
   "Lessons": [],

@@ -1,0 +1,94 @@
+{
+  "Grades": [
+    {
+      "FullName": "\u041D\u043E\u0432\u044B\u0439 \u0441\u0442\u0443\u0434\u0435\u043D\u0442",
+      "Grade": null,
+      "Comment": null,
+      "IsPresent": false,
+      "Average": 3,
+      "CourseName": null
+    },
+    {
+      "FullName": "\u041D\u043E\u0432\u044B\u0439 \u0441\u0442\u0443\u0434\u0435\u043D\u0442",
+      "Grade": null,
+      "Comment": null,
+      "IsPresent": false,
+      "Average": 3,
+      "CourseName": null
+    },
+    {
+      "FullName": "\u041D\u043E\u0432\u044B\u0439 \u0441\u0442\u0443\u0434\u0435\u043D\u0442",
+      "Grade": null,
+      "Comment": null,
+      "IsPresent": false,
+      "Average": 3,
+      "CourseName": null
+    },
+    {
+      "FullName": "\u041D\u043E\u0432\u044B\u0439 \u0441\u0442\u0443\u0434\u0435\u043D\u0442",
+      "Grade": null,
+      "Comment": null,
+      "IsPresent": false,
+      "Average": 3,
+      "CourseName": null
+    },
+    {
+      "FullName": "\u041D\u043E\u0432\u044B\u0439 \u0441\u0442\u0443\u0434\u0435\u043D\u0442",
+      "Grade": null,
+      "Comment": null,
+      "IsPresent": false,
+      "Average": 3,
+      "CourseName": null
+    },
+    {
+      "FullName": "\u041D\u043E\u0432\u044B\u0439 \u0441\u0442\u0443\u0434\u0435\u043D\u0442",
+      "Grade": null,
+      "Comment": null,
+      "IsPresent": false,
+      "Average": 3,
+      "CourseName": null
+    },
+    {
+      "FullName": "\u041D\u043E\u0432\u044B\u0439 \u0441\u0442\u0443\u0434\u0435\u043D\u0442",
+      "Grade": null,
+      "Comment": null,
+      "IsPresent": false,
+      "Average": 3,
+      "CourseName": null
+    },
+    {
+      "FullName": "\u041D\u043E\u0432\u044B\u0439 \u0441\u0442\u0443\u0434\u0435\u043D\u0442",
+      "Grade": null,
+      "Comment": null,
+      "IsPresent": false,
+      "Average": 3,
+      "CourseName": null
+    },
+    {
+      "FullName": "\u041D\u043E\u0432\u044B\u0439 \u0441\u0442\u0443\u0434\u0435\u043D\u0442",
+      "Grade": null,
+      "Comment": null,
+      "IsPresent": false,
+      "Average": 3,
+      "CourseName": null
+    },
+    {
+      "FullName": "\u041D\u043E\u0432\u044B\u0439 \u0441\u0442\u0443\u0434\u0435\u043D\u0442",
+      "Grade": "1",
+      "Comment": "",
+      "IsPresent": true,
+      "Average": 1,
+      "CourseName": "\u041A\u041F\u0438\u042F\u041F"
+    },
+    {
+      "FullName": "\u041D\u043E\u0432\u044B\u0439 \u0441\u0442\u0443\u0434\u0435\u043D\u0442",
+      "Grade": "1",
+      "Comment": "",
+      "IsPresent": false,
+      "Average": 1,
+      "CourseName": "\u041A\u041F\u0438\u042F\u041F"
+    }
+  ],
+  "Lessons": [],
+  "Schedule": []
+}

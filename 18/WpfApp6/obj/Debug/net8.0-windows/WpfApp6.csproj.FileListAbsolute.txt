@@ -1,0 +1,59 @@
+D:\__Колледж\__Учеба\КПиЯП Практика Гум помощь\Ерошеня_16\WpfApp6\bin\Debug\net8.0-windows\WpfApp6.exe
+D:\__Колледж\__Учеба\КПиЯП Практика Гум помощь\Ерошеня_16\WpfApp6\bin\Debug\net8.0-windows\WpfApp6.deps.json
+D:\__Колледж\__Учеба\КПиЯП Практика Гум помощь\Ерошеня_16\WpfApp6\bin\Debug\net8.0-windows\WpfApp6.runtimeconfig.json
+D:\__Колледж\__Учеба\КПиЯП Практика Гум помощь\Ерошеня_16\WpfApp6\bin\Debug\net8.0-windows\WpfApp6.dll
+D:\__Колледж\__Учеба\КПиЯП Практика Гум помощь\Ерошеня_16\WpfApp6\bin\Debug\net8.0-windows\WpfApp6.pdb
+D:\__Колледж\__Учеба\КПиЯП Практика Гум помощь\Ерошеня_16\WpfApp6\obj\Debug\net8.0-windows\ChatWindow.baml
+D:\__Колледж\__Учеба\КПиЯП Практика Гум помощь\Ерошеня_16\WpfApp6\obj\Debug\net8.0-windows\LoginWindow.baml
+D:\__Колледж\__Учеба\КПиЯП Практика Гум помощь\Ерошеня_16\WpfApp6\obj\Debug\net8.0-windows\MainWindow.baml
+D:\__Колледж\__Учеба\КПиЯП Практика Гум помощь\Ерошеня_16\WpfApp6\obj\Debug\net8.0-windows\ChatWindow.g.cs
+D:\__Колледж\__Учеба\КПиЯП Практика Гум помощь\Ерошеня_16\WpfApp6\obj\Debug\net8.0-windows\LoginWindow.g.cs
+D:\__Колледж\__Учеба\КПиЯП Практика Гум помощь\Ерошеня_16\WpfApp6\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\__Колледж\__Учеба\КПиЯП Практика Гум помощь\Ерошеня_16\WpfApp6\obj\Debug\net8.0-windows\App.g.cs
+D:\__Колледж\__Учеба\КПиЯП Практика Гум помощь\Ерошеня_16\WpfApp6\obj\Debug\net8.0-windows\WpfApp6_MarkupCompile.cache
+D:\__Колледж\__Учеба\КПиЯП Практика Гум помощь\Ерошеня_16\WpfApp6\obj\Debug\net8.0-windows\WpfApp6.g.resources
+D:\__Колледж\__Учеба\КПиЯП Практика Гум помощь\Ерошеня_16\WpfApp6\obj\Debug\net8.0-windows\WpfApp6.GeneratedMSBuildEditorConfig.editorconfig
+D:\__Колледж\__Учеба\КПиЯП Практика Гум помощь\Ерошеня_16\WpfApp6\obj\Debug\net8.0-windows\WpfApp6.AssemblyInfoInputs.cache
+D:\__Колледж\__Учеба\КПиЯП Практика Гум помощь\Ерошеня_16\WpfApp6\obj\Debug\net8.0-windows\WpfApp6.AssemblyInfo.cs
+D:\__Колледж\__Учеба\КПиЯП Практика Гум помощь\Ерошеня_16\WpfApp6\obj\Debug\net8.0-windows\WpfApp6.csproj.CoreCompileInputs.cache
+D:\__Колледж\__Учеба\КПиЯП Практика Гум помощь\Ерошеня_16\WpfApp6\obj\Debug\net8.0-windows\WpfApp6.dll
+D:\__Колледж\__Учеба\КПиЯП Практика Гум помощь\Ерошеня_16\WpfApp6\obj\Debug\net8.0-windows\refint\WpfApp6.dll
+D:\__Колледж\__Учеба\КПиЯП Практика Гум помощь\Ерошеня_16\WpfApp6\obj\Debug\net8.0-windows\WpfApp6.pdb
+D:\__Колледж\__Учеба\КПиЯП Практика Гум помощь\Ерошеня_16\WpfApp6\obj\Debug\net8.0-windows\WpfApp6.genruntimeconfig.cache
+D:\__Колледж\__Учеба\КПиЯП Практика Гум помощь\Ерошеня_16\WpfApp6\obj\Debug\net8.0-windows\ref\WpfApp6.dll
+D:\__Колледж\__Учеба\КПиЯП Практика Гум помощь\Ерошеня_16\WpfApp6\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\__Колледж\__Учеба\КПиЯП Практика Гум помощь\Ерошеня_16\WpfApp6\obj\Debug\net8.0-windows\WpfApp6_MarkupCompile.lref
+D:\__Колледж\__Учеба\КПиЯП Практика Гум помощь\Ерошеня_16\WpfApp6\obj\Debug\net8.0-windows\StudentSummaryWindow.baml
+D:\__Колледж\__Учеба\КПиЯП Практика Гум помощь\Ерошеня_16\WpfApp6\obj\Debug\net8.0-windows\StudentSummaryWindow.g.cs
+D:\__Колледж\__Учеба\КПиЯП Практика Гум помощь\Ерошеня_16\WpfApp6\obj\Debug\net8.0-windows\EditGradeWindow.baml
+D:\__Колледж\__Учеба\КПиЯП Практика Гум помощь\Ерошеня_16\WpfApp6\obj\Debug\net8.0-windows\EditGradeWindow.g.cs
+D:\Labaratornie\C#\Практика\18\WpfApp6\bin\Debug\net8.0-windows\WpfApp6.exe
+D:\Labaratornie\C#\Практика\18\WpfApp6\bin\Debug\net8.0-windows\WpfApp6.deps.json
+D:\Labaratornie\C#\Практика\18\WpfApp6\bin\Debug\net8.0-windows\WpfApp6.runtimeconfig.json
+D:\Labaratornie\C#\Практика\18\WpfApp6\bin\Debug\net8.0-windows\WpfApp6.dll
+D:\Labaratornie\C#\Практика\18\WpfApp6\bin\Debug\net8.0-windows\WpfApp6.pdb
+D:\Labaratornie\C#\Практика\18\WpfApp6\obj\Debug\net8.0-windows\ChatWindow.baml
+D:\Labaratornie\C#\Практика\18\WpfApp6\obj\Debug\net8.0-windows\EditGradeWindow.baml
+D:\Labaratornie\C#\Практика\18\WpfApp6\obj\Debug\net8.0-windows\LoginWindow.baml
+D:\Labaratornie\C#\Практика\18\WpfApp6\obj\Debug\net8.0-windows\StudentSummaryWindow.baml
+D:\Labaratornie\C#\Практика\18\WpfApp6\obj\Debug\net8.0-windows\ChatWindow.g.cs
+D:\Labaratornie\C#\Практика\18\WpfApp6\obj\Debug\net8.0-windows\EditGradeWindow.g.cs
+D:\Labaratornie\C#\Практика\18\WpfApp6\obj\Debug\net8.0-windows\LoginWindow.g.cs
+D:\Labaratornie\C#\Практика\18\WpfApp6\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\Labaratornie\C#\Практика\18\WpfApp6\obj\Debug\net8.0-windows\StudentSummaryWindow.g.cs
+D:\Labaratornie\C#\Практика\18\WpfApp6\obj\Debug\net8.0-windows\App.g.cs
+D:\Labaratornie\C#\Практика\18\WpfApp6\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\Labaratornie\C#\Практика\18\WpfApp6\obj\Debug\net8.0-windows\WpfApp6_MarkupCompile.cache
+D:\Labaratornie\C#\Практика\18\WpfApp6\obj\Debug\net8.0-windows\WpfApp6_MarkupCompile.lref
+D:\Labaratornie\C#\Практика\18\WpfApp6\obj\Debug\net8.0-windows\MainWindow.baml
+D:\Labaratornie\C#\Практика\18\WpfApp6\obj\Debug\net8.0-windows\WpfApp6.g.resources
+D:\Labaratornie\C#\Практика\18\WpfApp6\obj\Debug\net8.0-windows\WpfApp6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Labaratornie\C#\Практика\18\WpfApp6\obj\Debug\net8.0-windows\WpfApp6.AssemblyInfoInputs.cache
+D:\Labaratornie\C#\Практика\18\WpfApp6\obj\Debug\net8.0-windows\WpfApp6.AssemblyInfo.cs
+D:\Labaratornie\C#\Практика\18\WpfApp6\obj\Debug\net8.0-windows\WpfApp6.csproj.CoreCompileInputs.cache
+D:\Labaratornie\C#\Практика\18\WpfApp6\obj\Debug\net8.0-windows\WpfApp6.sourcelink.json
+D:\Labaratornie\C#\Практика\18\WpfApp6\obj\Debug\net8.0-windows\WpfApp6.dll
+D:\Labaratornie\C#\Практика\18\WpfApp6\obj\Debug\net8.0-windows\refint\WpfApp6.dll
+D:\Labaratornie\C#\Практика\18\WpfApp6\obj\Debug\net8.0-windows\WpfApp6.pdb
+D:\Labaratornie\C#\Практика\18\WpfApp6\obj\Debug\net8.0-windows\WpfApp6.genruntimeconfig.cache
+D:\Labaratornie\C#\Практика\18\WpfApp6\obj\Debug\net8.0-windows\ref\WpfApp6.dll

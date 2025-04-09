@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
 D:\Labaratornie\C#\Практика\17\WpfApp5\App.xaml
-3616261101
+4-334732504
 
-27-1283807324
+26-332781301
 198-352714763
-ChatWindow.xaml;LoginWindow.xaml;MainWindow.xaml;
+ChatWindow.xaml;EditGradeWindow.xaml;LoginWindow.xaml;MainWindow.xaml;
 
-True
+False
 
