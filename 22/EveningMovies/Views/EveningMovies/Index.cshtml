@@ -1,0 +1,114 @@
+﻿@model IEnumerable<EveningMovies.Models.EveningMovie>
+@using Microsoft.AspNetCore.Http.Extensions;
+
+@{
+    ViewData["Title"] = "Список фильмов на вечер";
+    var currentFilter = ViewBag.CurrentFilter as string;
+    var moodTags = ViewBag.MoodTags as List<string> ?? new List<string>();
+}
+
+<h1>@ViewData["Title"]</h1>
+
+@if (TempData["SuccessMessage"] != null)
+{
+        <div class="alert alert-success alert-dismissible fade show" role="alert">
+        @TempData["SuccessMessage"]
+            <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+        </div>
+}
+@if (TempData["ErrorMessage"] != null)
+{
+         <div class="alert alert-danger alert-dismissible fade show" role="alert">
+        @TempData["ErrorMessage"]
+             <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+        </div>
+}
+
+
+<div class="row mb-3">
+    <div class="col-md-6">
+        <a asp-action="Add" class="btn btn-primary">Добавить новый фильм</a>
+    </div>
+    <div class="col-md-6">
+        <form asp-action="Index" method="get" class="d-flex justify-content-end">
+            <div class="input-group w-auto">
+                <label class="input-group-text" for="moodTagFilter">Фильтр по настроению:</label>
+                <select name="moodTag" id="moodTagFilter" class="form-select" onchange="this.form.submit()">
+                    <option value="">-- Все --</option>
+                    @foreach (var tag in moodTags)
+                    {
+                            <option value="@tag" selected="@(tag == currentFilter)">@tag</option>
+                    }
+                </select>
+                @if (!string.IsNullOrEmpty(currentFilter))
+                {
+                        <a asp-action="Index" class="btn btn-outline-secondary" title="Сбросить фильтр">X</a>
+                }
+            </div>
+        </form>
+    </div>
+</div>
+
+
+@if (!Model.Any())
+{
+    if (!string.IsNullOrEmpty(currentFilter))
+    {
+                 <p>Фильмы с тегом настроения "@currentFilter" не найдены. <a asp-action="Index">Показать все фильмы</a>?</p>
+    }
+    else
+    {
+                 <p>Пока не добавлено ни одного фильма. <a asp-action="Add">Добавить первый фильм?</a></p>
+    }
+}
+else
+{
+        <table class="table table-striped table-hover table-bordered">
+            <thead class="table-light">
+                <tr>
+                    <th>
+                    @Html.DisplayNameFor(model => model.First().Title)
+                    </th>
+                    <th>
+                    @Html.DisplayNameFor(model => model.First().Genre)
+                    </th>
+                    <th>
+                    @Html.DisplayNameFor(model => model.First().MoodTag)
+                    </th>
+                    <th>
+                    @Html.DisplayNameFor(model => model.First().AddedBy)
+                    </th>
+                     <th>
+                    @Html.DisplayNameFor(model => model.First().DateAdded)
+                    </th>
+                    <th>Действия</th>
+                </tr>
+            </thead>
+            <tbody>
+            @foreach (var item in Model)
+            {
+                        <tr>
+                            <td>
+                        @Html.DisplayFor(modelItem => item.Title)
+                            </td>
+                            <td>
+                        @Html.DisplayFor(modelItem => item.Genre)
+                            </td>
+                            <td>
+                                <a asp-action="Index" asp-route-moodTag="@item.MoodTag">@Html.DisplayFor(modelItem => item.MoodTag)</a>
+                            </td>
+                            <td>
+                        @Html.DisplayFor(modelItem => item.AddedBy)
+                            </td>
+                             <td>
+                        @Html.DisplayFor(modelItem => item.DateAdded) <small>(UTC)</small>
+                            </td>
+                            <td>
+
+                                <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-sm btn-outline-danger">Удалить</a>
+                            </td>
+                        </tr>
+            }
+            </tbody>
+        </table>
+}

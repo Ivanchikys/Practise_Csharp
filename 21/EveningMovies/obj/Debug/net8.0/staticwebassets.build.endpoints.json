@@ -3,7 +3,7 @@
   "ManifestType": "Build",
   "Endpoints": [
     {
-      "Route": "EveningMovies.79h4hbt1f6.styles.css",
+      "Route": "EveningMovies.jb3448ene4.styles.css",
       "AssetFile": "EveningMovies.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -17,7 +17,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1131"
+          "Value": "1193"
         },
         {
           "Name": "Content-Type",
@@ -25,21 +25,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"W/01UFX3CqdNnMoG9S5HmJL/DHoHHkQbEeFmkpkOlD8=\""
+          "Value": "\"MdJYKfjk+zmpC/9nJC+4u1m4lwDzz8R0aFXt4zZxlCI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 09 Apr 2025 13:56:17 GMT"
+          "Value": "Thu, 10 Apr 2025 10:56:18 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "79h4hbt1f6"
+          "Value": "jb3448ene4"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-W/01UFX3CqdNnMoG9S5HmJL/DHoHHkQbEeFmkpkOlD8="
+          "Value": "sha256-MdJYKfjk+zmpC/9nJC+4u1m4lwDzz8R0aFXt4zZxlCI="
         },
         {
           "Name": "label",
@@ -62,7 +62,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1131"
+          "Value": "1193"
         },
         {
           "Name": "Content-Type",
@@ -70,17 +70,17 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"W/01UFX3CqdNnMoG9S5HmJL/DHoHHkQbEeFmkpkOlD8=\""
+          "Value": "\"MdJYKfjk+zmpC/9nJC+4u1m4lwDzz8R0aFXt4zZxlCI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 09 Apr 2025 13:56:17 GMT"
+          "Value": "Thu, 10 Apr 2025 10:56:18 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-W/01UFX3CqdNnMoG9S5HmJL/DHoHHkQbEeFmkpkOlD8="
+          "Value": "sha256-MdJYKfjk+zmpC/9nJC+4u1m4lwDzz8R0aFXt4zZxlCI="
         }
       ]
     },

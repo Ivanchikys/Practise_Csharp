@@ -1,0 +1,48 @@
+﻿@model IEnumerable<EveningMovies.Models.EveningMovieViewModel>
+@{
+    ViewData["Title"] = $"Фильмы в жанре: {ViewBag.GenreName}";
+}
+
+@if (ViewBag.PageMessage != null)
+{
+     <h2>@ViewBag.PageMessage</h2>
+}
+else
+{
+     <h2>@ViewData["Title"]</h2>
+}
+
+@if (!Model.Any())
+{
+        <p>Фильмы в жанре "@ViewBag.GenreName" пока не найдены или не добавлены.</p>
+}
+else
+{
+        <table class="table table-striped table-bordered">
+             <thead>
+                <tr>
+                    <th>@Html.DisplayNameFor(model => model.First().Title)</th>
+                    <th>@Html.DisplayNameFor(model => model.First().Genre)</th>
+                    <th>@Html.DisplayNameFor(model => model.First().StartTime)</th>
+                    <th>@Html.DisplayNameFor(model => model.First().RecommendedBy)</th>
+                </tr>
+            </thead>
+            <tbody>
+            @foreach (var movie in Model)
+            {
+                        <tr>
+                            <td>@Html.DisplayFor(modelItem => movie.Title)</td>
+                            <td>@Html.DisplayFor(modelItem => movie.Genre)</td>
+                            <td>@Html.DisplayFor(modelItem => movie.StartTime, "{0:HH:mm}")</td>
+                            <td>@Html.DisplayFor(modelItem => movie.RecommendedBy)</td>
+                        </tr>
+            }
+            </tbody>
+        </table>
+}
+
+<hr />
+<p>
+    <a asp-action="Add" asp-controller="EveningMovie" class="btn btn-secondary">Добавить фильм</a>
+    <a asp-action="Index" asp-controller="EveningMovie" class="btn btn-outline-info">К полному списку</a>
+</p>
