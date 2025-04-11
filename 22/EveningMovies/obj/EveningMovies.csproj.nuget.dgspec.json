@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Labaratornie\\C#\\Практика\\21\\EveningMovies\\EveningMovies.csproj": {}
+    "D:\\Labaratornie\\C#\\Практика\\22\\EveningMovies\\EveningMovies.csproj": {}
   },
   "projects": {
-    "D:\\Labaratornie\\C#\\Практика\\21\\EveningMovies\\EveningMovies.csproj": {
+    "D:\\Labaratornie\\C#\\Практика\\22\\EveningMovies\\EveningMovies.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Labaratornie\\C#\\Практика\\21\\EveningMovies\\EveningMovies.csproj",
+        "projectUniqueName": "D:\\Labaratornie\\C#\\Практика\\22\\EveningMovies\\EveningMovies.csproj",
         "projectName": "EveningMovies",
-        "projectPath": "D:\\Labaratornie\\C#\\Практика\\21\\EveningMovies\\EveningMovies.csproj",
+        "projectPath": "D:\\Labaratornie\\C#\\Практика\\22\\EveningMovies\\EveningMovies.csproj",
         "packagesPath": "C:\\Users\\Ваня\\.nuget\\packages\\",
-        "outputPath": "D:\\Labaratornie\\C#\\Практика\\21\\EveningMovies\\obj\\",
+        "outputPath": "D:\\Labaratornie\\C#\\Практика\\22\\EveningMovies\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\VisualStudio\\Новая папка\\NuGetPackages"
@@ -22,15 +22,15 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net8.0"
+          "net9.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
+          "net9.0": {
+            "targetAlias": "net9.0",
             "projectReferences": {}
           }
         },
@@ -47,8 +47,8 @@
         "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
+        "net9.0": {
+          "targetAlias": "net9.0",
           "dependencies": {
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
@@ -78,6 +78,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.Net.Sdk.Compilers.Toolset",
+              "version": "[9.0.203, 9.0.203]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
